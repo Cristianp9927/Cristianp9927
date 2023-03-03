@@ -1,4 +1,5 @@
-### Hola mi nombre es Cristian Polo y actualmente estoy estudiando analisis de sistemas
+## Hola me llamo Cristian Polo 
+### Soy un estudiante de analisis de sistemas
 
 
 
