@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hola mi nombre es Cristian Polo y actualmente estoy estudiando analisis de sistemas
 
-<!--
-**Cristianp9927/Cristianp9927** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Comando | Descripción |
+| ------- | ----------- |
+| ls | Lista los archivos y directorios en el directorio actual |
+| cd | Cambia el directorio actual a otro directorio |
+| mkdir | Crea un nuevo directorio en el directorio actual |
+| rm | Elimina un archivo |
+| mv | Mueve o renombra un archivo o directorio |
+## Comandos Alias Útiles
+
+| Alias | Descripción |
+| ----- | ----------- |
+| ll | Muestra los detalles de los archivos en un formato legible por humanos |
+| gp | Realiza "git pull" y "git push" al mismo tiempo |
